@@ -3,7 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/amokshagna)
 
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning<br>🌱 I’m diving deep into Data Science and Computer Vision<br>📫 Reach me at: alaparthi06@gmail.com<br>
+🔭 I’m currently working on Machine Learning<br>🌱 I’m diving deep into Data Science and Computer Vision<br>📫 Reach me at: moksh.alap@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/amokshagna) 
